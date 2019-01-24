@@ -4,7 +4,7 @@
 #     print(age, '\t', 'Dipto')
 # else:
 #     print(age, '\t', 'Siyam')
-
+#
 # a = int(input("number 1:"))
 # b = int(input("number 2:"))
 # c = int(input("number 3:"))
@@ -16,7 +16,7 @@
 #     print(b)
 # else:
 #     print(c)
-
+#
 # char = input('Enter a Single Character: \n')
 #
 # if char >= 'a' and char <= 'z':
@@ -25,9 +25,9 @@
 #     print('Upper Case')
 # else:
 #     print('Nothing')
-
+#
 # HomeWork: Leap Year Using Nested Condition
 # HomeWork: break, continue
-
-
-
+#
+#
+#

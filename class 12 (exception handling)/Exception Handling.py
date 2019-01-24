@@ -1,5 +1,6 @@
 ### basic
 ## 1
+x = 1
 try:
   print(x)
 except:
@@ -37,6 +38,7 @@ else:
 
 ### Try, Except, Finally
 ## 1
+x = 1
 try:
   print(x)
 except:
@@ -46,9 +48,10 @@ finally:
 
 ## 2
 try:
-  f = open("test.txt")
-  # f = open("test.txt", 'w')
+  # f = open("test.txt")
+  f = open("test.txt", 'w')
   f.write("Demo Text")
+  # f.read()
 except:
   print("Something went wrong when writing to the file")
 finally:
