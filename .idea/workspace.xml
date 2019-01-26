@@ -2,24 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b6b479-f145-41a8-b257-c0aa60588fb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/class 01 (basics)/before start.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class 13 (OOP basics)/what is OOP.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class 14 (OOP, method)/functions 01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class 15 (OOP, class)/class 01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 01 (basics)/task 01.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 01 (basics)/task 02.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 01 (basics)/task 03.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 01 (basics)/task 04.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/boolean-operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/boolean_operators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/data-types.py" beforeDir="false" afterPath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/data_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 03 (input system)/task 05.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 03 (input system)/variable convention.txt" beforeDir="false" afterPath="$PROJECT_DIR$/class 03 (input system)/variable convention.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 04 (type casting)/task.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 13 (OOP basics)/OOP basics.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 14 (OOP, method)/functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 15 (OOP, class)/class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/class 16 (problem solving)/segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/class 16 (problem solving)/segment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 01 (basics)/before start.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 01 (basics)/before start.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/.idea/class 02.11.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/.idea/class 02.11.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/arithmetic_operators.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/arithmetic_operators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/data_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/data_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/escape_character.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/escape_character.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 03 (input system)/input_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 03 (input system)/input_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 03 (input system)/variable convention.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 03 (input system)/variable convention.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 04 (type casting)/type_casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 04 (type casting)/type_casting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 05 (string operations)/string 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 05 (string operations)/string 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 05 (string operations)/string 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 05 (string operations)/string 02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 06 (DS, list)/list 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 06 (DS, list)/list 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 06 (DS, list)/list 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 06 (DS, list)/list 02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 07 (DS, list part - 2)/Queue_Stack_pop_push.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (DS, list part - 2)/Queue_Stack_pop_push.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 07 (DS, list part - 2)/list 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (DS, list part - 2)/list 03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 08 (DS, dic, set, tuple)/dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 08 (DS, dic, set, tuple)/dic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 08 (DS, dic, set, tuple)/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 08 (DS, dic, set, tuple)/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 08 (DS, dic, set, tuple)/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 08 (DS, dic, set, tuple)/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 09 (conditional logic)/condition 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 09 (conditional logic)/condition 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 09 (conditional logic)/conditional 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 09 (conditional logic)/conditional 02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 10 (looping)/looping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10 (looping)/looping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 11 (file handling)/file handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 11 (file handling)/file handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 11 (file handling)/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 11 (file handling)/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 11 (file handling)/test_write.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 11 (file handling)/test_write.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 12 (exception handling)/Exception Handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 12 (exception handling)/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 12 (exception handling)/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 13 (OOP basics)/importing_modules_packages.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 13 (OOP basics)/importing_modules_packages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 13 (OOP basics)/what is OOP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 13 (OOP basics)/what is OOP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 14 (OOP, method)/functions 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 14 (OOP, method)/functions 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 14 (OOP, method)/functions 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 14 (OOP, method)/functions 02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 14 (OOP, method)/functions 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 14 (OOP, method)/functions 03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 15 (OOP, class)/Inheritance, Encapsulation, Polymorphism.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 15 (OOP, class)/Inheritance, Encapsulation, Polymorphism.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 15 (OOP, class)/class 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 15 (OOP, class)/oop_class_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 15 (OOP, class)/class 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 15 (OOP, class)/oop_class_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 15 (OOP, class)/class 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 15 (OOP, class)/oop_class_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 15 (OOP, class)/what is 'constructor'.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 15 (OOP, class)/what is 'constructor'.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 15 (OOP, class)/what is 'self' keyword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 15 (OOP, class)/what is 'self' keyword.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 16 (problem solving)/Problem set -1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Class 16 (problem solving)/Problem set -1.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 16 (problem solving)/problem set -2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Class 16 (problem solving)/problem set -2.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class 16 (problem solving)/segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 16 (problem solving)/segment.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -192,14 +215,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="8" />
+          <entry key="dummy" value="23" />
           <entry key="py" value="2060" />
-          <entry key="txt" value="1364" />
+          <entry key="txt" value="1365" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="1372" />
+          <entry key="PLAIN_TEXT" value="1388" />
           <entry key="Python" value="2060" />
         </counts>
       </usages-collector>
@@ -506,7 +529,14 @@
       <option name="project" value="LOCAL" />
       <updated>1547712302784</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="All Notes Added.">
+      <created>1548529450971</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548529450971</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -546,31 +576,32 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Notes Added of 09.11" />
     <MESSAGE value="All Notes Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Notes Added" />
+    <MESSAGE value="All Notes Added." />
+    <option name="LAST_COMMIT_MESSAGE" value="All Notes Added." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/class 06 (DS, list)/list 02.py">
+    <entry file="file://$PROJECT_DIR$/Class 06 (DS, list)/list 02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
           <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 06 (DS, list)/list 01.py">
+    <entry file="file://$PROJECT_DIR$/Class 06 (DS, list)/list 01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 11 (file handling)/test.txt">
+    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 11 (file handling)/test_write.txt">
+    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/test_write.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
@@ -578,20 +609,20 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/class 05 (string operations)/variable convention" />
-    <entry file="file://$PROJECT_DIR$/class 12 (exception handling)/test.txt">
+    <entry file="file://$PROJECT_DIR$/Class 12 (exception handling)/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 12 (exception handling)/Exception Handling.py">
+    <entry file="file://$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="356">
           <caret line="57" column="11" lean-forward="true" selection-start-line="57" selection-start-column="11" selection-end-line="57" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 07 (DS, list part - 2)/list 03.py">
+    <entry file="file://$PROJECT_DIR$/Class 07 (DS, list part - 2)/list 03.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 07 (DS, list part - 2)/Queue_Stack_pop_push.py">
+    <entry file="file://$PROJECT_DIR$/Class 07 (DS, list part - 2)/Queue_Stack_pop_push.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
@@ -619,28 +650,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/escape_character.py">
+    <entry file="file://$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/escape_character.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/arithmetic_operators.py">
+    <entry file="file://$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/arithmetic_operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
           <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/boolean_operators.py">
+    <entry file="file://$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/boolean_operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="48" selection-start-line="48" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 02 (basics, AO, bool, data_types)/data_types.py">
+    <entry file="file://$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/data_types.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -654,7 +685,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 03 (input system)/input_function.py">
+    <entry file="file://$PROJECT_DIR$/Class 03 (input system)/input_function.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
@@ -668,80 +699,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 04 (type casting)/type_casting.py">
+    <entry file="file://$PROJECT_DIR$/Class 04 (type casting)/type_casting.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-541">
           <caret line="3" column="5" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 05 (string operations)/string 02.py">
+    <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 02.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 05 (string operations)/string 01.py">
+    <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-37">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 09 (conditional logic)/condition 01.py">
+    <entry file="file://$PROJECT_DIR$/Class 09 (conditional logic)/condition 01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 09 (conditional logic)/conditional 02.py">
+    <entry file="file://$PROJECT_DIR$/Class 09 (conditional logic)/conditional 02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 10 (looping)/looping.py">
+    <entry file="file://$PROJECT_DIR$/Class 10 (looping)/looping.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="194">
           <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 11 (file handling)/file handling.py">
+    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/file handling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 16 (problem solving)/segment.py">
+    <entry file="file://$PROJECT_DIR$/Class 16 (problem solving)/segment.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 14 (OOP, method)/functions 02.py">
+    <entry file="file://$PROJECT_DIR$/Class 14 (OOP, method)/functions 02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1139">
           <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 14 (OOP, method)/functions 03.py">
+    <entry file="file://$PROJECT_DIR$/Class 14 (OOP, method)/functions 03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-37">
           <caret selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 14 (OOP, method)/functions 01.py">
+    <entry file="file://$PROJECT_DIR$/Class 14 (OOP, method)/functions 01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-457">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 13 (OOP basics)/importing_modules_packages.py">
+    <entry file="file://$PROJECT_DIR$/Class 13 (OOP basics)/importing_modules_packages.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
@@ -751,63 +782,63 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 15 (OOP, class)/class 01.py">
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class)/oop_class_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="60" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 15 (OOP, class)/class 02.py">
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class)/oop_class_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-373">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 15 (OOP, class)/Inheritance, Encapsulation, Polymorphism.txt">
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class)/Inheritance, Encapsulation, Polymorphism.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 15 (OOP, class)/class 03.py">
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class)/oop_class_03.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="530">
           <caret line="152" lean-forward="true" selection-start-line="152" selection-end-line="152" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 15 (OOP, class)/what is 'constructor'.txt">
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class)/what is 'constructor'.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 15 (OOP, class)/what is 'self' keyword.txt">
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class)/what is 'self' keyword.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 13 (OOP basics)/what is OOP.txt">
+    <entry file="file://$PROJECT_DIR$/Class 13 (OOP basics)/what is OOP.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
           <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 01 (basics)/before start.txt">
+    <entry file="file://$PROJECT_DIR$/Class 01 (basics)/before start.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/class 03 (input system)/variable convention.txt">
+    <entry file="file://$PROJECT_DIR$/Class 03 (input system)/variable convention.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
           <caret line="3" column="9" lean-forward="true" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
