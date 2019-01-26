@@ -1,0 +1,15 @@
+# Described in details in the 'class 14 and class 15' section.
+# Give YouTube Links
+
+1. OOP = Object Oriented Programming
+
+2. Inheritance, Polymorphism, Encapsulation
+
+3. Method (Function), Class, Module, Package
+
+4. Constructor
+
+
+# Example:
+
+1. Car example

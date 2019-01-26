@@ -1,0 +1,15 @@
+1. Python setup (Latest version).
+2. Python IDLE.
+3. How to use Hangouts/Skype for video call and screen sharing.
+4. Active Skype desktop app.
+5. Install Git on my machine.
+6. Create a GitHub account .
+7. How to use Google Drive?
+8. Name of 10-15 modern programing languages.
+9. Name of some popular Web Frameworks, based on their languages.
+10. What is a Web Framework?
+11. What is Open Source concept?
+12. Python's fields.
+13. Is Python interpreted or compiled?
+14. IDE vs EDITOR.
+

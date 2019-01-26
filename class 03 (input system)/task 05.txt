@@ -1,2 +1,0 @@
-1. Split the code line by line (Add, Sub, Mul, Div, Rem)
-2. Google Drive

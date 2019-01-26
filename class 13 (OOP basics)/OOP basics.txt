@@ -1,7 +1,0 @@
-1. OOP = Object Oriented Programming
-
-2. Method (Function), Class, Module, Package
-
-3. Car example
-
-4. Constructor

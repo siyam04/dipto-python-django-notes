@@ -1,0 +1,9 @@
+self keyword:
+-------------
+
+'self' is a conventional name. We can change this. It's a reference of 'class' instance. It has used
+during declaration of instance variable.
+
+The difference between 'class variable' and 'instance variable' is, class variables are shared to every
+instances but instance variables are unique to their instances.
+

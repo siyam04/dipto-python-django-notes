@@ -1,0 +1,22 @@
+Inheritance:
+------------
+
+Inheritance is a way of creating new class for using details of existing class without modifying it.
+The newly formed class is a derived class (or child class). Similarly, the existing class is a base
+class (or parent class).
+
+
+Encapsulation:
+--------------
+
+Using OOP in Python, we can restrict access to methods and variables. This prevent data from direct
+modification which is called encapsulation. In Python, we denote private attribute using underscore
+as prefix i.e single “ _ “ or double “ __“.
+
+
+Polymorphism:
+-------------
+
+Polymorphism is an ability (in OOP) to use common interface for multiple form (data types).
+Suppose, we need to color a shape, there are multiple shape option (rectangle, square, circle).
+However we could use same method to color any shape. This concept is called Polymorphism.
