@@ -1,2 +1,2 @@
-# dipto-python-django-notes
-All classes notes
+# Python Classes.
+All class notes included.
