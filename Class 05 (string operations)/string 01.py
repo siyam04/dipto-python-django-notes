@@ -1,43 +1,86 @@
-string1 = 'Dipto is a Pythonista'
-string2 = 'Dipto'
+# string1 = 'He is a Pythonista'
+# string2 = 'Python'
+#
+# """Finding Length"""
+# print(string1.__len__(), '\n', string1)
+# print(len(string1), '\n', string1)
+# print(len(string2))
 
-"""Finding Length"""
-print(string1.__len__())
-print(len(string2))
 
 """Forward Traversing"""
-print(string2[0])
-print(string2[1])
-print(string2[2])
-print(string2[3])
-print(string2[4])
-print()
-"""Reverse Traversing"""
-print(string2[-5])
+# new_string = 'Python'
+#
+# print(new_string[0])
+# print(new_string[1])
+# print(new_string[2])
+# print(new_string[3])
+# print(new_string[4])
+# print(new_string[5])
+
+
+# """Reverse Traversing"""
+# new_string_1 = 'Python'
+#
+# print(new_string_1[-6])
+# print(new_string_1[-5])
+# print(new_string_1[-4])
+# print(new_string_1[-3])
+# print(new_string_1[-2])
+# print(new_string_1[-1])
+
 # home work
 
-"""Direct Reversing"""
-print(string2[::-1])
 
-"""String Concatenate"""
-one = 'Bangla'
-two = 'desh'
+# """Direct Reversing"""
+# new_string_2 = 'Python'
+#
+# print(new_string_2[::-1])
 
-pan = 'Bangladesh '
-new = 'B ang lad esh '
 
-print(pan.replace('Bangladesh', 'NewYork'))
+# """String Concatenate"""
 
-print(pan)
+# one = 'Bangla'
+# two = 'desh'
+#
+# print(one + two)
 
-print(new.strip('-'))
 
-print(one + two)
+# """String Replace"""
 
-print('Bangla' + 'desh ' + 'beautiful')
+# data1 = 'Bangladesh'
 
-print(pan.upper())
-print(pan.lower())
+# print(data1.replace('Bangladesh', 'Sweden'))
+
+
+# """String Strip"""
+
+# data2 = ' Bangladesh '
+# print(data2.strip())
+# print(data2.lstrip())
+# print(data2.rstrip())
+
+
+# """String Split"""
+
+# data3 = 'Dhaka Bogra Rajbari'
+# data4 = 'Cat:Bat:Sat:Fat'
+
+# print(data3.split())
+# print(data4.split(':'))
+
+
+# """String Add using print"""
+
+# print('Bangla' + 'desh ' + 'beautiful')
+
+
+# """String Upper Lower"""
+
+# data5 = 'DHAKA'
+# data6 = 'dhaka'
+#
+# print(data6.upper())
+# print(data5.lower())
 
 
 
