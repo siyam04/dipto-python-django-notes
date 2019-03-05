@@ -1,4 +1,4 @@
-# Described in details in the 'class 14 and class 15' section.
+# Described in details
 # Give YouTube Links
 
 1. OOP = Object Oriented Programming
