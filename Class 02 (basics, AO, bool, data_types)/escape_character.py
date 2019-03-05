@@ -1,1 +1,3 @@
-print("Dipto says that: 'Siyam vaia said this'")
+print("He says that: 'Siyam vaia said this'")
+
+print('\\')

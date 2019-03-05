@@ -54,4 +54,8 @@ print(bool(10*0))
 print(bool(0.000000001))
 
 print(bool(''))
-print(bool('Dipto'))
+print(bool('String'))
+
+
+
+
