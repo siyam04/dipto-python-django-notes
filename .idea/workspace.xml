@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b6b479-f145-41a8-b257-c0aa60588fb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 04 (type casting)/type_casting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 04 (type casting)/type_casting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 05 (string operations)/string 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 05 (string operations)/string 01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 05 (string operations)/string 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 05 (string operations)/string 02.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +122,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1358" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
     <option name="height" value="754" />
@@ -139,6 +136,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,7 +148,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,7 +326,8 @@
       <workItem from="1551678662310" duration="3000" />
       <workItem from="1551756040402" duration="9982000" />
       <workItem from="1551775249164" duration="114000" />
-      <workItem from="1551931408255" duration="5719000" />
+      <workItem from="1551931408255" duration="6649000" />
+      <workItem from="1551971778009" duration="308000" />
     </task>
     <task id="LOCAL-00001" summary="All Notes Added">
       <created>1541139398574</created>
@@ -387,16 +385,23 @@
       <option name="project" value="LOCAL" />
       <updated>1551768091102</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="All Notes Added.">
+      <created>1551938052950</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1551938052950</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22042000" />
+    <option name="totallyTimeSpent" value="23280000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.2193646" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.22239032" />
       <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.16944024" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
