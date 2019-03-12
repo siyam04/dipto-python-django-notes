@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b6b479-f145-41a8-b257-c0aa60588fb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 07 (looping)/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (looping)/for loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 07 (looping)/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (looping)/task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 07 (looping)/while loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (looping)/while loop.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,28 +16,31 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python_classes$functions__1_.coverage" NAME="functions (1) Coverage Results" MODIFIED="1548411422447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
     <SUITE FILE_PATH="coverage/python_course_materials$boolean_operators.coverage" NAME="boolean_operators Coverage Results" MODIFIED="1551760792279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1551761815969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$for_loop.coverage" NAME="for loop Coverage Results" MODIFIED="1552370304307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 07 (looping)" />
+    <SUITE FILE_PATH="coverage/dipto_python_django_notes$Exception_Handling.coverage" NAME="Exception Handling Coverage Results" MODIFIED="1547718025041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 17.01.19" />
+    <SUITE FILE_PATH="coverage/python_classes$functions_02.coverage" NAME="functions 02 Coverage Results" MODIFIED="1548522010343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
+    <SUITE FILE_PATH="coverage/dipto_python_django_notes$data_types.coverage" NAME="data-types Coverage Results" MODIFIED="1541138852091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
+    <SUITE FILE_PATH="coverage/python_course_materials$string_02.coverage" NAME="string 02 Coverage Results" MODIFIED="1551935644393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 05 (string operations)" />
+    <SUITE FILE_PATH="coverage/dipto_python_django_notes$functions.coverage" NAME="functions Coverage Results" MODIFIED="1548338959453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 24.01.19" />
+    <SUITE FILE_PATH="coverage/dipto_python_django_notes$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1541753945370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
+    <SUITE FILE_PATH="coverage/python_classes$functions__1_.coverage" NAME="functions (1) Coverage Results" MODIFIED="1548411422447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
     <SUITE FILE_PATH="coverage/python_course_materials$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1551761371276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$type_casting.coverage" NAME="type_casting Coverage Results" MODIFIED="1541845118754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 10.11" />
-    <SUITE FILE_PATH="coverage/python_course_materials$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1551761815969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
     <SUITE FILE_PATH="coverage/python_course_materials$input_function.coverage" NAME="input_function Coverage Results" MODIFIED="1551762738787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 03 (input system)" />
     <SUITE FILE_PATH="coverage/python_classes$functions_03.coverage" NAME="functions 03 Coverage Results" MODIFIED="1548522876739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$boolean_operators.coverage" NAME="boolean-operators Coverage Results" MODIFIED="1541138578326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$lists2.coverage" NAME="lists2 Coverage Results" MODIFIED="1547187053451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14.12" />
-    <SUITE FILE_PATH="coverage/dipto_python_django_notes$Exception_Handling.coverage" NAME="Exception Handling Coverage Results" MODIFIED="1547718025041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 17.01.19" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$segment.coverage" NAME="segment Coverage Results" MODIFIED="1541843276701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems" />
-    <SUITE FILE_PATH="coverage/python_classes$functions_02.coverage" NAME="functions 02 Coverage Results" MODIFIED="1548522010343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
-    <SUITE FILE_PATH="coverage/dipto_python_django_notes$data_types.coverage" NAME="data-types Coverage Results" MODIFIED="1541138852091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$arithmetic_operators.coverage" NAME="arithmetic_operators Coverage Results" MODIFIED="1541137384782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
+    <SUITE FILE_PATH="coverage/python_course_materials$while_loop.coverage" NAME="while loop Coverage Results" MODIFIED="1552369306143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 07 (looping)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$input_function.coverage" NAME="input_function Coverage Results" MODIFIED="1541760099703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 09.11" />
-    <SUITE FILE_PATH="coverage/python_course_materials$string_02.coverage" NAME="string 02 Coverage Results" MODIFIED="1551935644393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 05 (string operations)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$file_handling.coverage" NAME="file handling Coverage Results" MODIFIED="1547717164051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 11.01.19" />
     <SUITE FILE_PATH="coverage/python_classes$class.coverage" NAME="class Coverage Results" MODIFIED="1548412888015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 15 (OOP, class)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$condition_01.coverage" NAME="condition 01 Coverage Results" MODIFIED="1552368397202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 06 (conditional logic)" />
     <SUITE FILE_PATH="coverage/python_course_materials$string_01.coverage" NAME="string 01 Coverage Results" MODIFIED="1551934500756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 05 (string operations)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$string_basic.coverage" NAME="string basic Coverage Results" MODIFIED="1544789310283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 30.11" />
-    <SUITE FILE_PATH="coverage/dipto_python_django_notes$functions.coverage" NAME="functions Coverage Results" MODIFIED="1548338959453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 24.01.19" />
-    <SUITE FILE_PATH="coverage/dipto_python_django_notes$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1541753945370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -49,7 +57,31 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class 07 (looping)/task.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,10 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/class 24.01.19/class.py" />
-        <option value="$PROJECT_DIR$/class 09 (looping)/looping.py" />
-        <option value="$PROJECT_DIR$/class 08 (conditional logic)/condition practice.py" />
-        <option value="$PROJECT_DIR$/class 08 (conditional logic)/conditional logic.py" />
         <option value="$PROJECT_DIR$/class 09 (conditional logic)/condition 01.py" />
         <option value="$PROJECT_DIR$/class 09 (conditional logic)/conditional 02.py" />
         <option value="$PROJECT_DIR$/class 01 (basics)/task 04.txt" />
@@ -106,7 +134,6 @@
         <option value="$PROJECT_DIR$/Class 07 (DS, list part - 2)/list 03.py" />
         <option value="$PROJECT_DIR$/Class 06 (DS, list)/list 02.py" />
         <option value="$PROJECT_DIR$/Class 07 (DS, list part - 2)/Queue_Stack_pop_push.py" />
-        <option value="$PROJECT_DIR$/Class 07 (looping)/task.txt" />
         <option value="$PROJECT_DIR$/Class 14 (OOP, method)/task.txt" />
         <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" />
         <option value="$PROJECT_DIR$/Class 06 (conditional logic)/task.txt" />
@@ -118,6 +145,11 @@
         <option value="$PROJECT_DIR$/Class 04 (type casting)/type_casting.py" />
         <option value="$PROJECT_DIR$/Class 05 (string operations)/string 01.py" />
         <option value="$PROJECT_DIR$/Class 05 (string operations)/string 02.py" />
+        <option value="$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py" />
+        <option value="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" />
+        <option value="$PROJECT_DIR$/Class 07 (looping)/while loop.py" />
+        <option value="$PROJECT_DIR$/Class 07 (looping)/for loop.py" />
+        <option value="$PROJECT_DIR$/Class 07 (looping)/task.txt" />
       </list>
     </option>
   </component>
@@ -136,7 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -144,10 +175,36 @@
               <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
+              <item name="Class 08 (DS, list)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
+              <item name="Class 09 (DS, list part - 2)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
+              <item name="Class 10 (DS, dic, set, tuple)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
+              <item name="Class 11 (file handling)" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
+              <item name="Class 18 (problem solving)" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -184,8 +241,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.string 02">
-    <configuration name="data_types" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.for loop">
+    <configuration name="condition 01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,12 +250,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 06 (conditional logic)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/data_types.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -207,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="escape_character" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -215,34 +272,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 07 (looping)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/escape_character.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="input_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="dipto-python-django-notes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 03 (input system)" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 03 (input system)/input_function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 07 (looping)/for loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -295,20 +330,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="while loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="dipto-python-django-notes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 07 (looping)" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 07 (looping)/while loop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Python.string 01" />
-      <item itemvalue="Python.data_types" />
-      <item itemvalue="Python.escape_character" />
-      <item itemvalue="Python.input_function" />
       <item itemvalue="Python.string 02" />
+      <item itemvalue="Python.condition 01" />
+      <item itemvalue="Python.while loop" />
+      <item itemvalue="Python.for loop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.for loop" />
+        <item itemvalue="Python.while loop" />
+        <item itemvalue="Python.condition 01" />
         <item itemvalue="Python.string 02" />
         <item itemvalue="Python.string 01" />
-        <item itemvalue="Python.input_function" />
-        <item itemvalue="Python.escape_character" />
-        <item itemvalue="Python.data_types" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +385,8 @@
       <workItem from="1551775249164" duration="114000" />
       <workItem from="1551931408255" duration="6649000" />
       <workItem from="1551971778009" duration="308000" />
+      <workItem from="1552235560658" duration="381000" />
+      <workItem from="1552364966939" duration="4850000" />
     </task>
     <task id="LOCAL-00001" summary="All Notes Added">
       <created>1541139398574</created>
@@ -396,18 +455,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23280000" />
+    <option name="totallyTimeSpent" value="28511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.22239032" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.16944024" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47987118" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.39130434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -416,7 +475,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32850242" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.58293074" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.9057105" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -436,13 +495,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="All Notes Added." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/test_write.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/class 05 (string operations)/variable convention" />
     <entry file="file://$PROJECT_DIR$/Class 12 (exception handling)/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -473,20 +525,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/segment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="27" column="33" lean-forward="true" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 01 (basics)/before start.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 01 (basics)/before start.txt" />
     <entry file="file://$PROJECT_DIR$/Class 03 (input system)/variable convention.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
@@ -516,23 +555,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 06 (DS, list)/list 03.py" />
-    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/while loop.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -554,27 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="41" selection-start-column="41" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="14" column="15" lean-forward="true" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="12" column="15" lean-forward="true" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -620,13 +621,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 16 (OOP coding)/what is super() function.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class 17 (OOP, abstract class)/abstract_class.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -648,23 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="57" column="22" selection-start-line="57" selection-start-column="22" selection-end-line="57" selection-end-column="23" />
-          <folding>
-            <marker date="1551934500706" expanded="true" signature="596:674" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="554">
@@ -678,9 +655,6 @@
           <caret line="6" selection-start-line="6" selection-end-line="7" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py">
       <provider selected="true" editor-type-id="text-editor" />
@@ -720,24 +694,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 16 (OOP coding)/what is super() function.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Class 16 (OOP coding)/inheritance_polymorphism_encapsulation .py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="104" selection-start-line="104" selection-end-line="104" selection-end-column="42" />
+        <state relative-caret-position="357">
+          <caret line="68" column="10" lean-forward="true" selection-start-line="68" selection-start-column="10" selection-end-line="68" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-651">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1086">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <marker date="1551934500706" expanded="true" signature="596:674" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/while loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="132">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 02.py">
+    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/100+ Python Problems and Solutions.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        <state relative-caret-position="-4305">
+          <caret line="53" selection-start-line="53" selection-end-line="60" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>

@@ -1,11 +1,13 @@
 # ############################ BASIC ######################
-#
+
 # if condition :
 #     statement1
 #     statement2...
 # else :
 #     statement....
+
 # ############################ LADDER ######################
+
 #  if condition :
 #     statement1
 #     statement2...
@@ -15,7 +17,9 @@
 #     statement
 # else :
 #     statement....
+
 # #################### NESTED CONDITION ##############################
+
 # if condition :
 #     statement1
 #
