@@ -1,40 +1,55 @@
-dipto = []
-print(type(dipto))
+# Li = []
+# print(type(Li))
 
-dipto = ['smart', 22, 50.55]
+####################################################################
 
-print(type(dipto[0]))
-print(type(dipto[1]))
-print(type(dipto[2]))
+# Li = ['smart', 22, 50.55]
+#
+# print(type(dipto[0]))
+# print(type(dipto[1]))
+# print(type(dipto[2]))
 
-print(dipto)
+# print(dipto)
+#
+# print(len(dipto))
+#
+# print(dipto[-1])
+# print(dipto[-2])
+# print(dipto[-3])
 
-print(len(dipto))
+####################################################################
 
-print(dipto[-1])
-print(dipto[-2])
-print(dipto[-3])
+# Li_1 = ['smart', 22, 50.55, 'Pythonaista', 100, 'sun-glass']
 
-dipto = ['smart', 22, 50.55, 'Pythonaista', 100, 'sun-glass']
+# print(Li_1[0 : 3])
+# print(Li_1[3 : 6])
+# print(Li_1[5])
+# print(Li_1[-2])
 
-print(dipto[0 : 3])
-print(dipto[3 : 6])
-print(dipto[-1 : 1])
+####################################################################
 
-print(dipto[0 : 6 : 2])
-print(dipto[0 : 6 : 2])
-print(dipto[2 : 5 : 2])
+# Li_2 = ['smart', 22, 50.55, 'Pythonaista', 100, 'sun-glass']
+#
+# print(Li_2[0 : 6 : 2])
+# print(Li_2[0 : 6 : 3])
 
-print(dipto[::1])
+####################################################################
 
-add = dipto[0] + '_boy'
+# Li_3 = ['smart', 22, 50.55, 'Pythonaista', 100, 'sun-glass']
+#
+# print(Li_3[::1])
+#
+# add = Li_3[0] + '_boy'
+# print(add)
+#
+# print(Li_3)
 
-print(add)
-print(dipto)
+####################################################################
 
-dipto = ['smart', 22, 50.55, 'Pythonaista', 100, 'sun-glass']
+# Li_4 = ['smart', 22, 50.55, 'Pythonaista', 100, 'sun-glass']
+#
+# print(type(Li_4))
+#
+# rm = Li_4.remove('smart')
+# print(rm)
 
-print(type(dipto))
-
-rm = dipto.remove('smart')
-print(rm)

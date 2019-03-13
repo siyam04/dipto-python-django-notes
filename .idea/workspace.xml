@@ -3,11 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b6b479-f145-41a8-b257-c0aa60588fb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class 07 (looping)/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (looping)/for loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 07 (looping)/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (looping)/task.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 07 (looping)/while loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (looping)/while loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 08 (DS, list)/list 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 08 (DS, list)/list 02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,14 +21,17 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python_course_materials$boolean_operators.coverage" NAME="boolean_operators Coverage Results" MODIFIED="1551760792279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
     <SUITE FILE_PATH="coverage/python_course_materials$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1551761815969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
-    <SUITE FILE_PATH="coverage/python_course_materials$for_loop.coverage" NAME="for loop Coverage Results" MODIFIED="1552370304307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 07 (looping)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$list_01.coverage" NAME="list 01 Coverage Results" MODIFIED="1552455573235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 08 (DS, list)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$for_loop.coverage" NAME="for loop Coverage Results" MODIFIED="1552457437006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 07 (looping)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$Exception_Handling.coverage" NAME="Exception Handling Coverage Results" MODIFIED="1547718025041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 17.01.19" />
     <SUITE FILE_PATH="coverage/python_classes$functions_02.coverage" NAME="functions 02 Coverage Results" MODIFIED="1548522010343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$data_types.coverage" NAME="data-types Coverage Results" MODIFIED="1541138852091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
     <SUITE FILE_PATH="coverage/python_course_materials$string_02.coverage" NAME="string 02 Coverage Results" MODIFIED="1551935644393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 05 (string operations)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1552456870135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 09 (DS, list part - 2)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$functions.coverage" NAME="functions Coverage Results" MODIFIED="1548338959453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 24.01.19" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1541753945370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
     <SUITE FILE_PATH="coverage/python_classes$functions__1_.coverage" NAME="functions (1) Coverage Results" MODIFIED="1548411422447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$set.coverage" NAME="set Coverage Results" MODIFIED="1552458739861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
     <SUITE FILE_PATH="coverage/python_course_materials$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1551761371276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$type_casting.coverage" NAME="type_casting Coverage Results" MODIFIED="1541845118754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 10.11" />
     <SUITE FILE_PATH="coverage/python_course_materials$input_function.coverage" NAME="input_function Coverage Results" MODIFIED="1551762738787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 03 (input system)" />
@@ -34,13 +40,17 @@
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$lists2.coverage" NAME="lists2 Coverage Results" MODIFIED="1547187053451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14.12" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$segment.coverage" NAME="segment Coverage Results" MODIFIED="1541843276701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Problems" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$arithmetic_operators.coverage" NAME="arithmetic_operators Coverage Results" MODIFIED="1541137384782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
+    <SUITE FILE_PATH="coverage/python_course_materials$list_02.coverage" NAME="list 02 Coverage Results" MODIFIED="1552456049487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 08 (DS, list)" />
     <SUITE FILE_PATH="coverage/python_course_materials$while_loop.coverage" NAME="while loop Coverage Results" MODIFIED="1552369306143" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 07 (looping)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$input_function.coverage" NAME="input_function Coverage Results" MODIFIED="1541760099703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 09.11" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$file_handling.coverage" NAME="file handling Coverage Results" MODIFIED="1547717164051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 11.01.19" />
     <SUITE FILE_PATH="coverage/python_classes$class.coverage" NAME="class Coverage Results" MODIFIED="1548412888015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 15 (OOP, class)" />
     <SUITE FILE_PATH="coverage/python_course_materials$condition_01.coverage" NAME="condition 01 Coverage Results" MODIFIED="1552368397202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 06 (conditional logic)" />
     <SUITE FILE_PATH="coverage/python_course_materials$string_01.coverage" NAME="string 01 Coverage Results" MODIFIED="1551934500756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 05 (string operations)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$dic.coverage" NAME="dic Coverage Results" MODIFIED="1552458436224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$string_basic.coverage" NAME="string basic Coverage Results" MODIFIED="1544789310283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 30.11" />
+    <SUITE FILE_PATH="coverage/python_course_materials$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1552457735580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$pop_queue_stack.coverage" NAME="pop_queue_stack Coverage Results" MODIFIED="1552457198163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 09 (DS, list part - 2)" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -58,27 +68,40 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Class 07 (looping)/task.txt">
+        <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="105">
+              <caret line="5" selection-start-line="5" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="25" selection-start-line="25" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -99,12 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/class 09 (conditional logic)/condition 01.py" />
-        <option value="$PROJECT_DIR$/class 09 (conditional logic)/conditional 02.py" />
-        <option value="$PROJECT_DIR$/class 01 (basics)/task 04.txt" />
-        <option value="$PROJECT_DIR$/class 01 (basics)/task 01.txt" />
-        <option value="$PROJECT_DIR$/class 03 (input system)/variable convention.txt" />
-        <option value="$PROJECT_DIR$/class 13 (OOP basics)/OOP basics.txt" />
         <option value="$PROJECT_DIR$/class 16 (problem solving)/segment.py" />
         <option value="$PROJECT_DIR$/class 14 (OOP, method)/functions.py" />
         <option value="$PROJECT_DIR$/class 14 (OOP, method)/functions 01.py" />
@@ -135,7 +152,6 @@
         <option value="$PROJECT_DIR$/Class 06 (DS, list)/list 02.py" />
         <option value="$PROJECT_DIR$/Class 07 (DS, list part - 2)/Queue_Stack_pop_push.py" />
         <option value="$PROJECT_DIR$/Class 14 (OOP, method)/task.txt" />
-        <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" />
         <option value="$PROJECT_DIR$/Class 06 (conditional logic)/task.txt" />
         <option value="$PROJECT_DIR$/Class 18 (problem solving)/information.txt" />
         <option value="$PROJECT_DIR$/Class 14 (OOP basics)/what is OOP.txt" />
@@ -148,8 +164,15 @@
         <option value="$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py" />
         <option value="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" />
         <option value="$PROJECT_DIR$/Class 07 (looping)/while loop.py" />
-        <option value="$PROJECT_DIR$/Class 07 (looping)/for loop.py" />
         <option value="$PROJECT_DIR$/Class 07 (looping)/task.txt" />
+        <option value="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" />
+        <option value="$PROJECT_DIR$/Class 08 (DS, list)/list 02.py" />
+        <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" />
+        <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py" />
+        <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" />
+        <option value="$PROJECT_DIR$/Class 07 (looping)/for loop.py" />
+        <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" />
+        <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py" />
       </list>
     </option>
   </component>
@@ -168,6 +191,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,22 +202,12 @@
             <path>
               <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
-              <item name="Class 08 (DS, list)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
-              <item name="Class 09 (DS, list part - 2)" type="462c0819:PsiDirectoryNode" />
+              <item name="Class 07 (looping)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
               <item name="Class 10 (DS, dic, set, tuple)" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
-              <item name="Class 11 (file handling)" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
@@ -204,7 +218,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,8 +254,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.for loop">
-    <configuration name="condition 01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.set">
+    <configuration name="dic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 06 (conditional logic)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +299,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string 01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pop_queue_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,12 +307,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 05 (string operations)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 09 (DS, list part - 2)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 05 (string operations)/string 01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +321,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="string 02" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,12 +329,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 05 (string operations)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 05 (string operations)/string 02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,7 +343,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,12 +351,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 07 (looping)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 07 (looping)/while loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -353,19 +366,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.string 01" />
-      <item itemvalue="Python.string 02" />
-      <item itemvalue="Python.condition 01" />
-      <item itemvalue="Python.while loop" />
       <item itemvalue="Python.for loop" />
+      <item itemvalue="Python.pop_queue_stack" />
+      <item itemvalue="Python.tuple" />
+      <item itemvalue="Python.dic" />
+      <item itemvalue="Python.set" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.set" />
+        <item itemvalue="Python.dic" />
+        <item itemvalue="Python.tuple" />
         <item itemvalue="Python.for loop" />
-        <item itemvalue="Python.while loop" />
-        <item itemvalue="Python.condition 01" />
-        <item itemvalue="Python.string 02" />
-        <item itemvalue="Python.string 01" />
+        <item itemvalue="Python.pop_queue_stack" />
       </list>
     </recent_temporary>
   </component>
@@ -386,7 +399,8 @@
       <workItem from="1551931408255" duration="6649000" />
       <workItem from="1551971778009" duration="308000" />
       <workItem from="1552235560658" duration="381000" />
-      <workItem from="1552364966939" duration="4850000" />
+      <workItem from="1552364966939" duration="6086000" />
+      <workItem from="1552450296162" duration="6011000" />
     </task>
     <task id="LOCAL-00001" summary="All Notes Added">
       <created>1541139398574</created>
@@ -451,22 +465,30 @@
       <option name="project" value="LOCAL" />
       <updated>1551938052950</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="All Notes Added.">
+      <created>1552371172777</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1552371172777</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28511000" />
+    <option name="totallyTimeSpent" value="35758000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.23373677" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.2375189" />
       <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.16944024" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39130434" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.41384864" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,7 +517,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="All Notes Added." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/class 05 (string operations)/variable convention" />
     <entry file="file://$PROJECT_DIR$/Class 12 (exception handling)/test.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -642,23 +663,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="554">
-          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111">
-          <caret line="6" selection-start-line="6" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -691,13 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -739,24 +736,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="40" selection-start-column="40" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
           <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/segment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -767,16 +750,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/100+ Python Problems and Solutions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4305">
@@ -784,17 +757,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Class 07 (looping)/task.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="848">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="60" column="16" lean-forward="true" selection-start-line="60" selection-start-column="16" selection-end-line="60" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" selection-start-line="18" selection-start-column="2" selection-end-line="20" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" selection-start-line="5" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/segment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-987">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="300">
+          <caret line="25" selection-start-line="25" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="25" lean-forward="true" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
         </state>
       </provider>
     </entry>
