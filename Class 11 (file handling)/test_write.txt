@@ -1,3 +1,4 @@
-Dipto is very Lazy!Dipto has a Girlfriend!
- Dipto has a Girlfriend!
-Dipto has a Girlfriend!
+I love Python!
+I also like Django!
+
+
