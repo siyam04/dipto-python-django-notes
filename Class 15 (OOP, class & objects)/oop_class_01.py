@@ -1,74 +1,47 @@
-class AutoRobot:
-    name = 'wall-e'
+# class Robot:
+#     name = 'wall-e'
+#
+# # Body
+#
+# robot = Robot()
+#
+# r1_name = robot.name
+# print(r1_name)
+
 
 ##################################################################################
 
 
-class Robot:
-    name = 'wall-e'
-
-# Body
-
-
-robot1 = Robot()
-robot2 = Robot()
-
-compare = robot1 is robot2
-print(compare)
-
-r1_name = robot1.name
-print(r1_name)
-
-r2_name = robot1.name
-print(r2_name)
+# class Robot:
+#     name = 'wall-e'
+#
+#     def say_hello(self):
+#         return 'HI, Hello!'
+#
+#
+# robot = Robot()
+#
+# print(robot.name)
+#
+# print(robot.say_hello())
 
 ##################################################################################
-
-
-class Robot:
-    name = 'wall-e'
-
-    def say_hello(self):
-        return 'HI, Hello!'
-
-
-robot = Robot()
-
-print(robot.name)
-
-print(robot.say_hello())
-
-##################################################################################
-
-
-class Robot:
-    name = 'wall-e'
-
-    def say(self, something):
-        return str(something)
-
-
-robot = Robot()
-
-print(robot.name)
-
-print(robot.say('Bangladesh'))
-
-print(robot.say('Dhaka'))
-
-##################################################################################
-
-
-
-
-robot1 = Robot('wall-e')
-robot2 = Robot('eve')
-
-compare = robot1 is robot2
-print(compare)
-
-print(robot1.name)
-print(robot2.name)
+#
+#
+# class Robot:
+#     name = 'wall-e'
+#
+#     def say(self, something):
+#         return str(something)
+#
+#
+# robot = Robot()
+#
+# print(robot.name)
+#
+# print(robot.say('Bangladesh'))
+#
+# print(robot.say('Dhaka'))
 
 ##################################################################################
 
@@ -103,8 +76,6 @@ print(compare)
 class_variable = Robot.company
 print(class_variable)
 
-# Robot.name
-# 'AttrubuteError'
 
 
 
