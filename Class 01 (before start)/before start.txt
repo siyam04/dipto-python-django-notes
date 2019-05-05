@@ -1,4 +1,4 @@
-1. Python setup (Latest version).
+1. Who invented? Python setup (Latest version).
 2. Python IDLE.
 3. How to use Hangouts/Skype for video call and screen sharing.
 4. Active Skype desktop app.

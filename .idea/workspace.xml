@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7b6b479-f145-41a8-b257-c0aa60588fb6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 16 (OOP coding)/inheritance_polymorphism_encapsulation .py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 16 (OOP coding)/inheritance_polymorphism_encapsulation .py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 16 (OOP coding)/what is super() function.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 16 (OOP coding)/what is super() function.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 18 (problem solving)/information.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 18 (problem solving)/information.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +65,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -155,7 +152,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -167,6 +163,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -356,7 +353,8 @@
       <workItem from="1553169246653" duration="517000" />
       <workItem from="1553573717896" duration="4991000" />
       <workItem from="1553613129402" duration="6000" />
-      <workItem from="1553744713559" duration="5360000" />
+      <workItem from="1553744713559" duration="5974000" />
+      <workItem from="1553946131311" duration="6000" />
     </task>
     <task id="LOCAL-00001" summary="All Notes Added">
       <created>1541139398574</created>
@@ -442,16 +440,23 @@
       <option name="project" value="LOCAL" />
       <updated>1553579044792</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="All Notes Added.">
+      <created>1553752017232</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1553752017248</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54215000" />
+    <option name="totallyTimeSpent" value="54835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.25567323" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.25945538" />
       <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.16944024" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
