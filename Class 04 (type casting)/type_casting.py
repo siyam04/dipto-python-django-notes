@@ -1,18 +1,18 @@
-input_1 = float(input('Enter a value:\n'))
-input_2 = float(input('Enter another value:\n'))
+# input_1 = float(input('Enter a value:\n'))
+# input_2 = float(input('Enter another value:\n'))
 
 # result = int(input_1 * input_2)
 
-print(int(input_1 * input_2))
+# print(int(input_1 * input_2))
 # print('Multiplication is:', result)
 
 ############################################################
-bool(1)
-bool(0)
-bool('')
-bool('Dipto')
-bool(0.000)
-bool(0.001)
+# bool(1)
+# bool(0)
+# bool('')
+# bool('Dipto')
+# bool(0.000)
+# bool(0.001)
 
 #############################################################
 print('Enter a number:\n')

@@ -26,3 +26,7 @@
 1. name = 'variable 1'
 2. Name = 'variable 2'
 3. NAME = 'variable 3'
+
+var1, var2 = 5, 10
+
+var2, var1 = 5, 10

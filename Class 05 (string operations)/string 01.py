@@ -2,10 +2,11 @@
 # string2 = 'Python'
 
 """Finding Length"""
+
 # print(string1.__len__(), '\n', string1)
-#
+
 # print(len(string1), '\n', string1)
-# print(len(string2))
+# print(len(string2), string2)
 
 
 """Forward Traversing"""
@@ -17,11 +18,11 @@
 # print(new_string[3])
 # print(new_string[4])
 # print(new_string[5])
-
+# print('---------------')
 
 """Reverse Traversing"""
 # new_string_1 = 'Python'
-#
+
 # print(new_string_1[-6])
 # print(new_string_1[-5])
 # print(new_string_1[-4])
@@ -48,7 +49,7 @@
 
 """String Replace"""
 
-# data1 = 'Bangladesh'
+# data1 = 'Bangladesh is a Country'
 #
 # print(data1.replace('Bangladesh', 'Sweden'))
 
@@ -56,7 +57,9 @@
 """String Strip"""
 
 # data2 = ' Bangladesh '
+
 # print(data2.strip())
+
 # print(data2.lstrip())
 # print(data2.rstrip())
 
@@ -65,7 +68,7 @@
 
 # data3 = 'Dhaka Bogra Rajbari'
 # data4 = 'Cat:Bat:Sat:Fat'
-#
+
 # print(data3.split())
 # print(data4.split(':'))
 
@@ -77,11 +80,11 @@
 
 """String Upper Lower"""
 
-data5 = 'DHAKA'
-data6 = 'dhaka'
-
-print(data6.upper())
-print(data5.lower())
+# data5 = 'DHAKA'
+# data6 = 'dhaka'
+#
+# print(data6.upper())
+# print(data5.lower())
 
 
 
