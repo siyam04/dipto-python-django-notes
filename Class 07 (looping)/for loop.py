@@ -1,3 +1,4 @@
+
 # input1 = int(input('Enter a number: \n'))
 # input2 = int(input('Enter another number: \n'))
 #

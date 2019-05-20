@@ -1,15 +1,16 @@
-# age = int(input('Enter an Age: \n'))
+# age = int(input('Enter Your Age: \n'))
+# limit = 50
 #
-# if age < 25:
-#     print(age, '\t', 'Dipto')
+# if age < limit:
+#     print(age, '\t', 'Less Than {}'.format(limit))
 # else:
-#     print(age, '\t', 'Siyam')
+#     print(age, '\t', 'Greater Than {}'.format(limit))
 
 ############################################################################
 
-# a = int(input("number 1:"))
-# b = int(input("number 2:"))
-# c = int(input("number 3:"))
+# a = int(input("number 1:\n"))
+# b = int(input("number 2:\n"))
+# c = int(input("number 3:\n"))
 #
 # if a > b:
 #     if a > c:
@@ -18,6 +19,10 @@
 #     print(b)
 # else:
 #     print(c)
+
+# if a > b and a > c:
+#     print('A: ', a)
+
 
 ############################################################################
 
