@@ -3,6 +3,8 @@
 # print(dic["key1"])
 # print(dic["key2"])
 
+# d = {1: 100, 2: 500}
+
 #########################################################################
 
 # dic = {'Dhaka': 10, 'Bogra': 20}
@@ -12,17 +14,17 @@
 
 #################################################################
 
-# dic = {1: 'Siyam', 2: 'Dipto', 3: 'Barna'}
+# dic = {1: 'Python', 2: 'Django', 3: 'JavaScript'}
 #
 # for K, V in dic.items():
 #     print('{}: {}'.format(K, V))
 
 #################################################################
 
-dic = {1: 'Siyam', 2: 'Dipto', 3: 'Barna'}
-
-for Keys, Values in dic.items():
-    print('{', Keys, ':', Values, '}')
+# dic = {1: 'Python', 2: 'Django', 3: 'JavaScript'}
+#
+# for Keys, Values in dic.items():
+#     print('{', Keys, ':', Values, '}')
 
 
 
