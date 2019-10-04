@@ -14,3 +14,20 @@
 
 1. Car example
 
+class CarAll:
+     name
+     color
+     brand
+     price
+
+class AUDI:
+       type =
+       model =
+       color =
+       man_date =
+
+audi_func = AUDI()
+
+audi_func.type = red
+audi_func.model = R8
+

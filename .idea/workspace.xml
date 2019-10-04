@@ -2,10 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7b6b479-f145-41a8-b257-c0aa60588fb6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dipto-python-django-notes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dipto-python-django-notes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 07 (looping)/for loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 07 (looping)/for loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 08 (DS, list)/list 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 08 (DS, list)/list 02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_sort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 11 (file handling)/file handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 11 (file handling)/file handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 11 (file handling)/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 11 (file handling)/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 11 (file handling)/test_write.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 11 (file handling)/test_write.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 13 (method or functions)/functions 01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 13 (method or functions)/functions 01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 13 (method or functions)/functions 02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 13 (method or functions)/functions 02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 13 (method or functions)/functions 03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 13 (method or functions)/functions 03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 13 (method or functions)/task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 13 (method or functions)/task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 14 (OOP basics)/what is OOP.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 14 (OOP basics)/what is OOP.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class 17 (OOP, abstract class)/what is abstraction.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Class 17 (OOP, abstract class)/what is abstraction.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,23 +34,25 @@
     <SUITE FILE_PATH="coverage/python_course_materials$boolean_operators.coverage" NAME="boolean_operators Coverage Results" MODIFIED="1551760792279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
     <SUITE FILE_PATH="coverage/python_course_materials$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1551761815969" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
     <SUITE FILE_PATH="coverage/python_course_materials$list_01.coverage" NAME="list 01 Coverage Results" MODIFIED="1558460150192" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 08 (DS, list)" />
-    <SUITE FILE_PATH="coverage/python_course_materials$Exception_Handling.coverage" NAME="Exception Handling Coverage Results" MODIFIED="1552973094717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 12 (exception handling)" />
-    <SUITE FILE_PATH="coverage/python_course_materials$functions_02.coverage" NAME="functions 02 Coverage Results" MODIFIED="1553575212774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 13 (method or functions)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$Exception_Handling.coverage" NAME="Exception Handling Coverage Results" MODIFIED="1558976533269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 12 (exception handling)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$functions_02.coverage" NAME="functions 02 Coverage Results" MODIFIED="1559060716837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 13 (method or functions)" />
     <SUITE FILE_PATH="coverage/python_course_materials$for_loop.coverage" NAME="for loop Coverage Results" MODIFIED="1558373983705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 07 (looping)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$Exception_Handling.coverage" NAME="Exception Handling Coverage Results" MODIFIED="1547718025041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 17.01.19" />
     <SUITE FILE_PATH="coverage/python_classes$functions_02.coverage" NAME="functions 02 Coverage Results" MODIFIED="1548522010343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$data_types.coverage" NAME="data-types Coverage Results" MODIFIED="1541138852091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
-    <SUITE FILE_PATH="coverage/python_course_materials$file_handling.coverage" NAME="file handling Coverage Results" MODIFIED="1552973608863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 11 (file handling)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$file_handling.coverage" NAME="file handling Coverage Results" MODIFIED="1558975768247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 11 (file handling)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$oop_class_02.coverage" NAME="oop_class_02 Coverage Results" MODIFIED="1560617530864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)" />
     <SUITE FILE_PATH="coverage/python_course_materials$string_02.coverage" NAME="string 02 Coverage Results" MODIFIED="1557597083089" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 05 (string operations)" />
-    <SUITE FILE_PATH="coverage/python_course_materials$functions_01.coverage" NAME="functions 01 Coverage Results" MODIFIED="1553574518551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 13 (method or functions)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$functions_01.coverage" NAME="functions 01 Coverage Results" MODIFIED="1559059990678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 13 (method or functions)" />
     <SUITE FILE_PATH="coverage/python_course_materials$list_comprehension.coverage" NAME="list_comprehension Coverage Results" MODIFIED="1558805726404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 09 (DS, list part - 2)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$functions.coverage" NAME="functions Coverage Results" MODIFIED="1548338959453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 24.01.19" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$escape_character.coverage" NAME="escape_character Coverage Results" MODIFIED="1541753945370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 02.11" />
     <SUITE FILE_PATH="coverage/python_course_materials$type_casting.coverage" NAME="type_casting Coverage Results" MODIFIED="1557593718140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 04 (type casting)" />
     <SUITE FILE_PATH="coverage/python_classes$functions__1_.coverage" NAME="functions (1) Coverage Results" MODIFIED="1548411422447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
     <SUITE FILE_PATH="coverage/python_course_materials$set.coverage" NAME="set Coverage Results" MODIFIED="1558806885723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
-    <SUITE FILE_PATH="coverage/python_course_materials$functions_03.coverage" NAME="functions 03 Coverage Results" MODIFIED="1553575750795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 13 (method or functions)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$functions_03.coverage" NAME="functions 03 Coverage Results" MODIFIED="1559061148202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 13 (method or functions)" />
     <SUITE FILE_PATH="coverage/python_course_materials$data_types.coverage" NAME="data_types Coverage Results" MODIFIED="1551761371276" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$abstract_class.coverage" NAME="abstract_class Coverage Results" MODIFIED="1561716559013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 17 (OOP, abstract class)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$type_casting.coverage" NAME="type_casting Coverage Results" MODIFIED="1541845118754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 10.11" />
     <SUITE FILE_PATH="coverage/python_course_materials$input_function.coverage" NAME="input_function Coverage Results" MODIFIED="1557506660792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 03 (input system)" />
     <SUITE FILE_PATH="coverage/python_classes$functions_03.coverage" NAME="functions 03 Coverage Results" MODIFIED="1548522876739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 14 (OOP, method)" />
@@ -51,7 +70,7 @@
     <SUITE FILE_PATH="coverage/python_course_materials$dic.coverage" NAME="dic Coverage Results" MODIFIED="1558806785421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
     <SUITE FILE_PATH="coverage/dipto_python_django_notes$string_basic.coverage" NAME="string basic Coverage Results" MODIFIED="1544789310283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class 30.11" />
     <SUITE FILE_PATH="coverage/python_course_materials$tuple.coverage" NAME="tuple Coverage Results" MODIFIED="1558806303266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
-    <SUITE FILE_PATH="coverage/python_course_materials$oop_class_01.coverage" NAME="oop_class_01 Coverage Results" MODIFIED="1557505936366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$oop_class_01.coverage" NAME="oop_class_01 Coverage Results" MODIFIED="1560617450785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)" />
     <SUITE FILE_PATH="coverage/python_course_materials$pop_queue_stack.coverage" NAME="pop_queue_stack Coverage Results" MODIFIED="1558805889570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 09 (DS, list part - 2)" />
   </component>
   <component name="DatabaseView">
@@ -69,12 +88,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py">
+        <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/practice.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="18" selection-start-line="18" selection-start-column="2" selection-end-line="21" selection-end-column="25" />
+            <state relative-caret-position="-4">
+              <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -97,8 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/arithmetic_operators.py" />
-        <option value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/boolean_operators.py" />
         <option value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/data_types.py" />
         <option value="$PROJECT_DIR$/Class 02 (basics, AO, bool, data_types)/escape_character.py" />
         <option value="$PROJECT_DIR$/Class 16 (problem solving)/segment.py" />
@@ -110,21 +127,10 @@
         <option value="$PROJECT_DIR$/Class 07 (DS, list part - 2)/Queue_Stack_pop_push.py" />
         <option value="$PROJECT_DIR$/Class 14 (OOP, method)/task.txt" />
         <option value="$PROJECT_DIR$/Class 17 (OOP, abstract class)/abstract_class.py" />
-        <option value="$PROJECT_DIR$/Class 17 (OOP, abstract class)/what is abstraction.txt" />
         <option value="$PROJECT_DIR$/Class 07 (looping)/task.txt" />
-        <option value="$PROJECT_DIR$/Class 11 (file handling)/test.txt" />
-        <option value="$PROJECT_DIR$/Class 11 (file handling)/test_write.txt" />
-        <option value="$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py" />
-        <option value="$PROJECT_DIR$/Class 11 (file handling)/file handling.py" />
         <option value="$PROJECT_DIR$/Class 13 (method or functions)/not_important.txt" />
-        <option value="$PROJECT_DIR$/Class 13 (method or functions)/functions 01.py" />
-        <option value="$PROJECT_DIR$/Class 14 (OOP basics)/what is OOP.txt" />
-        <option value="$PROJECT_DIR$/Class 14 (OOP basics)/importing_modules_packages.py" />
         <option value="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/what is 'self' keyword.txt" />
         <option value="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_02.py" />
-        <option value="$PROJECT_DIR$/Class 13 (method or functions)/functions 03.py" />
-        <option value="$PROJECT_DIR$/Class 13 (method or functions)/functions 02.py" />
-        <option value="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_01.py" />
         <option value="$PROJECT_DIR$/Class 16 (OOP coding)/what is super() function.txt" />
         <option value="$PROJECT_DIR$/Class 16 (OOP coding)/inheritance_polymorphism_encapsulation .py" />
         <option value="$PROJECT_DIR$/Class 18 (problem solving)/information.txt" />
@@ -139,23 +145,36 @@
         <option value="$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py" />
         <option value="$PROJECT_DIR$/Class 06 (conditional logic)/task.txt" />
         <option value="$PROJECT_DIR$/Class 07 (looping)/while loop.py" />
-        <option value="$PROJECT_DIR$/Class 07 (looping)/for loop.py" />
-        <option value="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" />
-        <option value="$PROJECT_DIR$/Class 08 (DS, list)/list 02.py" />
-        <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" />
         <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_queue_stack.py" />
         <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_sort.py" />
-        <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" />
-        <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" />
         <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py" />
+        <option value="$PROJECT_DIR$/Class 11 (file handling)/test.txt" />
+        <option value="$PROJECT_DIR$/Class 11 (file handling)/test_write.txt" />
+        <option value="$PROJECT_DIR$/Class 13 (method or functions)/task.txt" />
+        <option value="$PROJECT_DIR$/Class 14 (OOP basics)/what is OOP.txt" />
+        <option value="$PROJECT_DIR$/Class 14 (OOP basics)/importing_modules_packages.py" />
+        <option value="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_01.py" />
+        <option value="$PROJECT_DIR$/Class 17 (OOP, abstract class)/what is abstraction.txt" />
+        <option value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" />
+        <option value="$PROJECT_DIR$/Class 08 (DS, list)/list 02.py" />
+        <option value="$PROJECT_DIR$/Class 13 (method or functions)/functions 02.py" />
+        <option value="$PROJECT_DIR$/Class 13 (method or functions)/functions 01.py" />
+        <option value="$PROJECT_DIR$/Class 13 (method or functions)/functions 03.py" />
+        <option value="$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py" />
+        <option value="$PROJECT_DIR$/Class 11 (file handling)/file handling.py" />
+        <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" />
+        <option value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" />
+        <option value="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" />
+        <option value="$PROJECT_DIR$/Class 07 (looping)/for loop.py" />
+        <option value="$PROJECT_DIR$/Class 18 (problem solving)/practice.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1357" />
-    <option name="y" value="288" />
-    <option name="width" value="1382" />
-    <option name="height" value="754" />
+    <option name="x" value="170" />
+    <option name="y" value="92" />
+    <option name="width" value="1026" />
+    <option name="height" value="554" />
   </component>
   <component name="ProjectLevelVcsManager">
     <OptionsSetting value="false" id="Update" />
@@ -166,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,22 +196,22 @@
             <path>
               <item name="python-course_materials" type="b2602c69:ProjectViewProjectNode" />
               <item name="python-course_materials" type="462c0819:PsiDirectoryNode" />
-              <item name="Class 10 (DS, dic, set, tuple)" type="462c0819:PsiDirectoryNode" />
+              <item name="Class 18 (problem solving)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../online_exam_system" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -219,8 +239,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.set">
-    <configuration name="dic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.practice">
+    <configuration name="abstract_class" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -228,12 +248,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 17 (OOP, abstract class)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 17 (OOP, abstract class)/abstract_class.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +262,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="for loop" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,12 +270,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 09 (DS, list part - 2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 07 (looping)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 07 (looping)/for loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,7 +284,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pop_queue_stack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="list 01" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -272,12 +292,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 09 (DS, list part - 2)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 08 (DS, list)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\SSD-Siyam\Desktop\GitHub\Repos\python-course_materials\Class 09 (DS, list part - 2)\pop_sort.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 08 (DS, list)/list 01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="set" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="oop_class_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,12 +314,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,7 +328,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tuple" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="practice" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="dipto-python-django-notes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -316,12 +336,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Class 18 (problem solving)" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Class 18 (problem solving)/practice.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +351,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.list_comprehension" />
-      <item itemvalue="Python.pop_queue_stack" />
-      <item itemvalue="Python.tuple" />
-      <item itemvalue="Python.dic" />
-      <item itemvalue="Python.set" />
+      <item itemvalue="Python.oop_class_02" />
+      <item itemvalue="Python.abstract_class" />
+      <item itemvalue="Python.list 01" />
+      <item itemvalue="Python.for loop" />
+      <item itemvalue="Python.practice" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.set" />
-        <item itemvalue="Python.dic" />
-        <item itemvalue="Python.tuple" />
-        <item itemvalue="Python.pop_queue_stack" />
-        <item itemvalue="Python.list_comprehension" />
+        <item itemvalue="Python.practice" />
+        <item itemvalue="Python.for loop" />
+        <item itemvalue="Python.list 01" />
+        <item itemvalue="Python.abstract_class" />
+        <item itemvalue="Python.oop_class_02" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +401,22 @@
       <workItem from="1558371863417" duration="2433000" />
       <workItem from="1558458075416" duration="2298000" />
       <workItem from="1558460726458" duration="35000" />
-      <workItem from="1558804080768" duration="2300000" />
+      <workItem from="1558804080768" duration="2451000" />
+      <workItem from="1558974032970" duration="2721000" />
+      <workItem from="1559058487371" duration="2616000" />
+      <workItem from="1560522641013" duration="23000" />
+      <workItem from="1560614660432" duration="2959000" />
+      <workItem from="1560694028834" duration="84000" />
+      <workItem from="1561714669635" duration="2656000" />
+      <workItem from="1564852055326" duration="2393000" />
+      <workItem from="1564856183131" duration="610000" />
+      <workItem from="1564932047351" duration="17000" />
+      <workItem from="1566315797642" duration="1252000" />
+      <workItem from="1566367546310" duration="1001000" />
+      <workItem from="1566644596963" duration="228000" />
+      <workItem from="1566740297978" duration="11000" />
+      <workItem from="1569072258389" duration="4460000" />
+      <workItem from="1570206650016" duration="4598000" />
     </task>
     <task id="LOCAL-00001" summary="All Notes Added">
       <created>1541139398574</created>
@@ -502,23 +537,30 @@
       <option name="project" value="LOCAL" />
       <updated>1558460739756</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="all notes added.">
+      <created>1558807018490</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1558807018490</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74575000" />
+    <option name="totallyTimeSpent" value="100355000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" visible="true" weight="0.2708018" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4983871" weight="0.24357034" />
       <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.16944024" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.55233496" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3645485" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -527,7 +569,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32903227" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.58293074" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.58184767" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.9057105" />
       <window_info anchor="bottom" id="DB Execution Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -547,8 +589,13 @@
     <MESSAGE value="all notes added." />
     <option name="LAST_COMMIT_MESSAGE" value="all notes added." />
   </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python_course_materials$list_01.coverage" NAME="list 01 Coverage Results" MODIFIED="1566367987615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 08 (DS, list)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$for_loop.coverage" NAME="for loop Coverage Results" MODIFIED="1569074909903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 07 (looping)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$abstract_class.coverage" NAME="abstract_class Coverage Results" MODIFIED="1566367744976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 17 (OOP, abstract class)" />
+    <SUITE FILE_PATH="coverage/python_course_materials$practice.coverage" NAME="practice Coverage Results" MODIFIED="1570211293584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Class 18 (problem solving)" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Class 01 (basics)/before start.txt" />
     <entry file="file://$PROJECT_DIR$/Class 06 (DS, list)/list 03.py" />
     <entry file="file://$PROJECT_DIR$/Class 07 (looping)/task.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -557,17 +604,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/test_write.txt">
+    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/not_important.txt" />
+    <entry file="file://$PROJECT_DIR$/Class 01 (before start)/python contents.txt" />
+    <entry file="file://$PROJECT_DIR$/Class 03 (input system)/variable convention.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="123">
+          <caret line="29" selection-start-line="29" selection-end-line="31" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/task.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
+          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/test_write.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
@@ -578,105 +641,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/not_important.txt" />
     <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/task.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
-          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2268">
-          <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/file handling.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 14 (OOP basics)/what is OOP.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/what is 'constructor'.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-42">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/what is 'self' keyword.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/functions 03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/functions 02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1239">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/functions 01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1113">
-          <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 14 (OOP basics)/importing_modules_packages.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#20#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1701">
-          <caret line="81" selection-start-line="81" selection-end-line="81" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 16 (OOP coding)/inheritance_polymorphism_encapsulation .py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="124" lean-forward="true" selection-start-line="124" selection-end-line="124" />
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 14 (OOP basics)/Inheritance, Encapsulation, Polymorphism.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="63">
+          <caret line="3" selection-start-line="3" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 14 (OOP basics)/what is OOP.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -689,201 +671,273 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 17 (OOP, abstract class)/abstract_class.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="210">
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 17 (OOP, abstract class)/what is abstraction.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="470">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/100+ Python Problems and Solutions.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6783">
-          <caret line="29" selection-start-line="29" selection-end-line="35" selection-end-column="17" />
+        <state relative-caret-position="407">
+          <caret line="29" column="110" selection-start-line="29" selection-start-column="106" selection-end-line="29" selection-end-column="110" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/information.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+          <caret selection-end-column="98" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 01 (before start)/python contents.txt" />
-    <entry file="file://$PROJECT_DIR$/Class 01 (before start)/before start.txt">
+    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/100+ Python Problems and Solutions.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="-2667">
+          <caret line="53" selection-start-line="53" selection-end-line="53" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 02 (AO, bool, data_types)/arithmetic_operators.py">
+    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/pythagoras.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="336">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 02 (AO, bool, data_types)/boolean_operators.py">
+    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/segment.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-756">
-          <caret column="9" selection-start-column="9" selection-end-column="10" />
+        <state relative-caret-position="-1275">
+          <caret line="8" column="26" lean-forward="true" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 02 (AO, bool, data_types)/data_types.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
+        <state relative-caret-position="308">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 02 (AO, bool, data_types)/escape_character.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 03 (input system)/input_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="12" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="487">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/while loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_sort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 14 (OOP basics)/importing_modules_packages.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#20#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/what is 'constructor'.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-378">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/what is 'self' keyword.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 16 (OOP coding)/inheritance_polymorphism_encapsulation .py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="153" lean-forward="true" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 02 (AO, bool, data_types)/arithmetic_operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 02 (AO, bool, data_types)/boolean_operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-909">
+          <caret column="9" selection-start-column="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 01 (before start)/before start.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 04 (type casting)/type_casting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="22">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        <state relative-caret-position="521">
+          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
           <folding>
             <marker date="1557595583651" expanded="true" signature="630:708" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 03 (input system)/variable convention.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="29" selection-start-line="29" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Class 05 (string operations)/string 02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/task.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="88">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/condition 01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/pythagoras.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/segment.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="18" lean-forward="true" selection-start-line="41" selection-start-column="18" selection-end-line="41" selection-end-column="18" />
+        <state relative-caret-position="213">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 06 (conditional logic)/conditional 02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="323">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/while loop.py">
+    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/functions 02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="804">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
+    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/functions 01.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        <state relative-caret-position="408">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 01.py">
+    <entry file="file://$PROJECT_DIR$/Class 12 (exception handling)/Exception Handling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="41" selection-start-line="41" selection-start-column="2" selection-end-line="48" selection-end-column="13" />
+        <state relative-caret-position="-1616">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 02.py">
+    <entry file="file://$PROJECT_DIR$/Class 11 (file handling)/file handling.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-525">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="34" selection-start-line="34" selection-start-column="2" selection-end-line="35" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/pop_sort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="220">
+          <caret line="25" column="8" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/set.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="18" selection-start-line="18" selection-start-column="2" selection-end-line="21" selection-end-column="25" />
+        <state relative-caret-position="345">
+          <caret line="16" column="40" lean-forward="true" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/tuple.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 13 (method or functions)/functions 03.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 09 (DS, list part - 2)/list_comprehension.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 08 (DS, list)/list 01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="42" column="11" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 10 (DS, dic, set, tuple)/dic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 07 (looping)/for loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="63" column="1" selection-start-line="63" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 15 (OOP, class &amp; objects)/oop_class_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="36" column="32" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class 18 (problem solving)/practice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4">
+          <caret line="74" column="31" selection-start-line="74" selection-start-column="31" selection-end-line="74" selection-end-column="31" />
         </state>
       </provider>
     </entry>

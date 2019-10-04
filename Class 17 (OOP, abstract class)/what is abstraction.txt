@@ -25,5 +25,8 @@ If we start this program, we see that this is not an abstract class, because:
 
 - we can instantiate an instance from
 - we are not required to implement do_something in the class definition of B
-- Our example implemented a case of simple inheritance which has nothing to do with an abstract class. In fact, Python on its own doesn't provide abstract classes. Yet, Python comes with a module which provides the infrastructure for defining Abstract Base Classes (ABCs). This module is called - for obvious reasons - abc.
+- Our example implemented a case of simple inheritance which has nothing to do with an abstract class. In fact,
+    Python on its own doesn't provide abstract classes.
+    Yet, Python comes with a module which provides the infrastructure for defining Abstract Base Classes (ABCs).
+    This module is called - for obvious reasons - abc.
 --------------------------------------------------------------------------------------------------

@@ -1,95 +1,97 @@
-### basic
-## 1
-# x = 1
-#
-# try:
-#   print(x)
-#
-# except:
-#   print("An exception occurred!")
+## basic
+# 1
 
-#################################################################
+x = 1
 
-## 2
+try:
+  print(x)
 
-# x = 2
-#
-# try:
-#   print(x)
-#
-# except NameError:
-#   print("Variable x is not defined")
-#
-# except:
-#   print("Something else went wrong")
+except:
+  print("An exception occurred!")
 
-#################################################################
+################################################################
 
-## 3
+# 2
 
-# try:
-#     1 / 0
-#
-# except:
-#     print("You cannot divide by zero!")
+x = 2
 
-#################################################################
+try:
+  print(x)
 
-# 4
-# try:
-#     1 / 0
-#
-# except ZeroDivisionError:
-#     print("You cannot divide by zero!")
+except NameError:
+  print("Variable x is not defined")
 
-#################################################################
+except:
+  print("Something else went wrong")
 
-### Try, Except, Else
+################################################################
 
-# try:
-#   print("Hello")
-#
-# except:
-#   print("Something went wrong")
-#
-# else:
-#   print("Nothing went wrong")
+# 3
 
-#################################################################
+try:
+    1 / 0
 
-### Try, Except, Finally
-## 1
+except:
+    print("You cannot divide by zero!")
 
-# x = 1
-#
-# try:
-#   print(x)
-#
-# except:
-#   print("Something went wrong")
-#
-# finally:
-#   print("The 'try except' is finished")
+################################################################
 
-#################################################################
+4
 
-## 2
+try:
+    1 / 0
 
-# try:
-#   # f = open("test.txt")
-#   f = open("test.txt", 'w')
-#   f.write("This is a sentence.")
-#   # f.read()
-#
-# except:
-#   print("Something went wrong when writing to the file")
-#
-# finally:
-#   f.close()
+except ZeroDivisionError:
+    print("You cannot divide by zero!")
 
-#################################################################
+################################################################
 
-### Using Dictionary
+## Try, Except, Else
+
+try:
+  print("Hello")
+
+except:
+  print("Something went wrong")
+
+else:
+  print("Nothing went wrong")
+
+################################################################
+
+## Try, Except, Finally
+# 1
+
+x = 1
+
+try:
+  print(x)
+
+except:
+  print("Something went wrong")
+
+finally:
+  print("The 'try except' is finished")
+
+################################################################
+
+# 2
+
+try:
+  # f = open("test.txt")
+  f = open("test.txt", 'w')
+  f.write("This is a sentence.")
+  # f.read()
+
+except:
+  print("Something went wrong when writing to the file")
+
+finally:
+  f.close()
+
+################################################################
+
+## Using Dictionary
 
 my_dict = {"a": 1, "b": 2, "c": 3}
 

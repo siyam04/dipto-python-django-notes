@@ -6,6 +6,7 @@
 # robot = Robot()
 #
 # r1_name = robot.name
+#
 # print(r1_name)
 
 
@@ -18,7 +19,7 @@
 #     def say_hello(self):
 #         return 'HI, Hello!'
 #
-#
+
 # robot = Robot()
 #
 # print(robot.name)
@@ -58,23 +59,23 @@ class Robot:
 robot1 = Robot('wall-e')
 robot2 = Robot('eve')
 
-result1 = robot1.company
-print(result1)
+# result1 = robot1.company
+# print(result1)
+#
+# result2 = robot2.company
+# print(result2)
 
-result2 = robot2.company
-print(result2)
+# result3 = robot1.name
+# print(result3)
+#
+# result3 = robot2.name
+# print(result3)
 
-result3 = robot1.name
-print(result3)
+# compare = robot1.company is robot2.company
+# print(compare)
 
-result3 = robot2.name
-print(result3)
-
-compare = robot1.company is robot2.company
-print(compare)
-
-class_variable = Robot.company
-print(class_variable)
+# class_variable = Robot.company
+# print(class_variable)
 
 
 
